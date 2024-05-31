@@ -1,4 +1,4 @@
-# Abbas Weather App
+# Weather App
 
 This is a simple ASP.NET Core web application that provides current weather information and a 5-day weather forecast using the OpenWeatherMap API.
 
